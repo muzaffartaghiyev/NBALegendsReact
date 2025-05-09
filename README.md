@@ -17,7 +17,7 @@ The NBA Legends App is a React application that showcases basketball players and
 
 ## Preview
 
-
+![nba_legends](https://github.com/user-attachments/assets/e5a141f3-c029-40ab-94d6-72c5c477adaf)
 
 
 ## Technologies Used
